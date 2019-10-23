@@ -35,7 +35,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
     - [@kubernetes/sig-scalability-feature-requests](https://github.com/orgs/kubernetes/teams/sig-scalability-feature-requests) - Feature Requests
     - [@kubernetes/sig-scalability-misc](https://github.com/orgs/kubernetes/teams/sig-scalability-misc) - General Discussion
     - [@kubernetes/sig-scalability-pr-reviews](https://github.com/orgs/kubernetes/teams/sig-scalability-pr-reviews) - PR Reviews
-    - [@kubernetes/sig-scalability-proprosals](https://github.com/orgs/kubernetes/teams/sig-scalability-proprosals) - Design Proposals
+    - [@kubernetes/sig-scalability-proposals](https://github.com/orgs/kubernetes/teams/sig-scalability-proposals) - Design Proposals
     - [@kubernetes/sig-scalability-test-failures](https://github.com/orgs/kubernetes/teams/sig-scalability-test-failures) - Test Failures and Triage
 
 ## Subprojects
